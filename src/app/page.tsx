@@ -239,7 +239,7 @@ export default function HomePage() {
                   ))}
                 </div>
                 <blockquote className="text-xl text-earth-700 leading-relaxed mb-6">
-                  "{testimonials[currentTestimonial].content}"
+                  &ldquo;{testimonials[currentTestimonial].content}&rdquo;
                 </blockquote>
                 <div className="text-forest-600 font-semibold">
                   {testimonials[currentTestimonial].name} ({testimonials[currentTestimonial].age})
