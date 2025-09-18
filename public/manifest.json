@@ -1,0 +1,26 @@
+{
+  "name": "숲심(森心) - 융합형 산림복지 AI 동반자",
+  "short_name": "숲심",
+  "description": "AI 기반 개인 맞춤형 산림치료 서비스를 제공하는 웹 애플리케이션",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0fdf4",
+  "theme_color": "#22c55e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "lifestyle", "medical"],
+  "lang": "ko-KR"
+}
